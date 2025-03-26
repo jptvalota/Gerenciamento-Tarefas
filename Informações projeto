@@ -1,0 +1,34 @@
+Gerenciador de Tarefas - Em desenvolvimento
+
+Tecnologias aplicadas: repositório git, banco de dados MySQl e NetBeans para codificação em Java;
+
+Time de desenvolvedores: João Paulo Targino Valota
+
+O sistema proposto é uma aplicação na web simples para ajudar e simplificar o processo de organização de tarefas dos usuários. 
+O sistema que trata sobre o gerenciamento de tarefas e realizações diárias será uma aplicabilidade na web, utilizando de tecnologias básicas e práticas, levando em consideração a simplicidade do sistema. Além disso, a interface será limpa e direta para que facilite a interação dos usuários. 
+Os usuários são pessoas que desejam organizar e gerenciar suas tarefas do dia-a-dia de maneira simplificada e facilitada. Um ponto importante é que não haverão tipos de usuários diferentes, todos terão a mesma disponibilidade de funcionalidades.
+
+Funcionalidades: 
+Requisitos Funcionais
+[RF001] <Cadastro das tarefas>
+Ator: <Usuário>
+Descrição: < O sistema deve permitir aos usuários criar novas tarefas, definindo o título, a descrição e o status.>
+[RF002] <Edição das tarefas>
+Ator: <Usuário>
+Descrição: < O sistema deve permitir aos usuários editar o título, a descrição e o status das tarefas.>
+[RF003] <Exclusão das tarefas>
+Ator: <Usuário>
+Descrição: <O sistema deve permitir aos usuários excluir tarefas já existentes.>
+
+Requisitos Não Funcionais
+[RNF001] <Desempenho>
+<O sistema deve ser responsivo e realizar operações de maneira rápida.>
+[RNF002] <Segurança>
+<As informações das tarefas dos usuários devem ser armazenadas de maneira segura.>
+[RNF003] <Usabilidade>
+<A interface do usuário deve ser amigável e de fácil navegação.>
+
+
+
+
+
